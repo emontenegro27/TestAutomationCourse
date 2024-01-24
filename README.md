@@ -1,0 +1,2 @@
+# TestAutomationCourse
+Automation activities
